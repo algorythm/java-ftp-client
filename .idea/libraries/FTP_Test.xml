@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FTP-Test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/FTP_Test_jar/FTP-Test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
